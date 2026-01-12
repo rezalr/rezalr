@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 DevOps Engineer @ Flarie | ☁️ Cloud & 🤖 MLOps Enthusiast<br>🛠️ Skilled in Kubernetes, Docker, Terraform, CI/CD, and ML pipelines<br>🚀 Passionate about automation, scaling systems, and optimizing workflows<br>🌱 Lifelong learner exploring cloud computing, AI in production, and open-source<br>🔍 Problem solver who loves turning challenges into efficient solutions
+👨‍💻 Cloud Infrastructure Engineer @ Gigalogy Ltd | ☁️ Cloud & 🤖 MLOps Enthusiast<br>🛠️ Skilled in Kubernetes, Docker, Terraform, CI/CD, and ML pipelines<br>🚀 Passionate about automation, scaling systems, and optimizing workflows<br>🌱 Lifelong learner exploring cloud computing, AI in production, and open-source<br>🔍 Problem solver who loves turning challenges into efficient solutions
 
 
 ## 🌐 Socials:
